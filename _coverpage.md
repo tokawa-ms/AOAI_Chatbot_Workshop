@@ -1,1 +1,0 @@
-# エンタープライズ検索システムのサンプルで学ぶ、Azure OpenAI & Azure Search
