@@ -7,4 +7,4 @@ Microsoft が提供する、Azure OpenAI と Cognitive Search を組み合わせ
 
 [ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search](https://github.com/Azure-Samples/azure-search-openai-demo/)
 
-![作る物](appcomponents.png "この自習書で作る物")
+![作る物](./img/appcomponents.png "この自習書で作る物")
